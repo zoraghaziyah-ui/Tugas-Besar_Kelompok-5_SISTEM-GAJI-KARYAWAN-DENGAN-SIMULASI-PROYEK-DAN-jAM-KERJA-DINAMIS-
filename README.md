@@ -1,1 +1,4 @@
-# Tugas-Besar_Kelompok-5_SISTEM-GAJI-KARYAWAN-DENGAN-SIMULASI-PROYEK-DAN-jAM-KERJA-DINAMIS-
+#Nama Anggota Kelompok 5:
+1. Alicia Khairunnisya (G1A025025) 
+2. Zora Ghaziyah Wanie (G1A025027) 
+3. Andrian Revaldo (G1A025029)
